@@ -23,7 +23,7 @@ public class PracticeTest4 {
 	String cat = "猫";
 	System.out.println(cat + "はリストに含まれています");
 
-//練習問題4.
+//練習問題4. 複数ある祝日がどうしても一つしか表示されない
 	int myBirth = 5;
 	switch(myBirth) {
 	case 1:
@@ -63,7 +63,7 @@ public class PracticeTest4 {
 		System.out.printf("なし");
 		break;
 		}
-//switch文を選んだ理由は多分岐処理の記述が可能であるから
+//switch文を選んだ理由は多分岐処理の記述が可能であり、処理が比較的簡潔に書けるため。
 
 
 	}
